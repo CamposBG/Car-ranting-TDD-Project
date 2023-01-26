@@ -1,0 +1,26 @@
+{
+  "name": "car-ranting-tdd-project",
+  "version": "1.0.0",
+  "description": "A car rent service with all the business rules tested and implemented on the back end. This project was made to to learn and practice TDD.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamposBG/Car-ranting-TDD-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamposBG/Car-ranting-TDD-Project/issues"
+  },
+  "homepage": "https://github.com/CamposBG/Car-ranting-TDD-Project#readme",
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}
